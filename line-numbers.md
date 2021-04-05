@@ -10,6 +10,6 @@
 #### 10
 #### 11 I like fanta and sprite!
 #### 12
-#### 13 I like dogs.
+#### 13 I like dogs and cats.
 #### 14
 #### 15
