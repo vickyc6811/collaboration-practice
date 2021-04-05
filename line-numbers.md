@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome.
 #### 10
-#### 11 I like fanta.
+#### 11 I like fanta and sprite!
 #### 12
 #### 13
 #### 14
