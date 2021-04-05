@@ -1,12 +1,10 @@
-#### 1 
-
 #### 1 Vicky was here!
 #### 2
 #### 3 Ibrokhim was here!
 #### 4
 #### 5
 #### 6
-#### 7
+#### 7 I like hamburger!
 #### 8
 #### 9
 #### 10
